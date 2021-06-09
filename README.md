@@ -20,7 +20,7 @@ This is an api database setup powered by sequelize, nodejs, and expressjs. The a
 4. Run `npm run seed` to seed the database.
 5. Run `npm start` to connect to the server
 
-Be sure to update your .env file with your username and password.  An [example file is provided](.env.Example) 
+Be sure to update your .env file with your username and password.  An example file is provided.
 
 ## Usage 
 Checkout this for [demo](https://youtu.be/7_poMw0Na0A) of the intended functionality and demonstration through Insomnia Core.  
@@ -32,7 +32,7 @@ Checkout this for [demo](https://youtu.be/7_poMw0Na0A) of the intended functiona
 * [Models](models/)
 * [Routes](routes/)
 * [Seed files](seeds/)
-* [Example env file](.env.Example)
+* Example env file
 * [Server.js file](server.js)
 
 ## License
